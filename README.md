@@ -16,17 +16,19 @@ Program developed using **Google Agent Development Kit** to assist in document r
    ```bash
    cd adk_audit_poc
    ```
-3. Install the dependencies
+4. Install the dependencies
     ```bash
-    uv install
+    uv sync
     ```
-4. Activate virtual environment
+5. Activate virtual environment
    ```bash
    chmod +x ./.venv/bin/activate
    source ./.venv/bin/activate
    ```
-4. Run the program
+6. Get your key at [Google AI Studio](https://aistudio.google.com/apikey) Add you key to `audit_agent/.env`
+
+6. Run the program
     ```bash
     adk web
     ```
-5. Test at [http://localhost:8000](http://localhost:8000)
+7. Test at [http://localhost:8000](http://localhost:8000)
