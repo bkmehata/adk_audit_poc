@@ -27,8 +27,12 @@ Program developed using **Google Agent Development Kit** to assist in document r
    ```
 6. Get your key at [Google AI Studio](https://aistudio.google.com/apikey) Add you key to `audit_agent/.env`
 
-6. Run the program
+7. Run the program
     ```bash
     adk web
     ```
-7. Test at [http://localhost:8000](http://localhost:8000)
+8. Test at [http://localhost:8000](http://localhost:8000)
+
+9. On web ui, select `audit_agent`.
+
+10. Sample folder contains files which can be used for testing

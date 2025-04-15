@@ -1,0 +1,39 @@
+ABC Corp
+Statement of Financial Position
+As at December 31, 2024
+(In USD)
+
+Assets
+Non-Current Assets
+- Property, Plant, and Equipment (IAS 16): 500,000
+- Intangible Assets: 50,000
+Total Non-Current Assets: 550,000
+
+Current Assets
+- Inventories (IAS 2): 100,000
+- Trade Receivables (IFRS 9): 80,000
+- Cash and Cash Equivalents: 70,000
+Total Current Assets: 250,000
+Total Assets: 800,000
+
+Equity and Liabilities
+Equity
+- Share Capital: 300,000
+- Retained Earnings: 150,000
+Total Equity: 450,000
+
+Non-Current Liabilities
+- Long-Term Loans: 200,000
+Total Non-Current Liabilities: 200,000
+
+Current Liabilities
+- Trade Payables: 100,000
+- Short-Term Provisions: 50,000
+Total Current Liabilities: 150,000
+Total Liabilities: 350,000
+Total Equity and Liabilities: 800,000
+
+Notes:
+- Prepared in accordance with IAS 1.
+- PPE depreciation calculated per IAS 16.
+- Inventories valued at lower of cost or NRV per IAS 2.

@@ -1,0 +1,33 @@
+INVOICE
+Invoice No: INV-2025-001
+Date: April 10, 2025
+Due Date: May 10, 2025
+
+Issuer:
+ABC Corp
+123 Business St, City, Country
+VAT ID: VAT123456789
+Email: accounts@abccorp.com
+
+Recipient:
+XYZ Ltd
+456 Client Rd, City, Country
+VAT ID: VAT987654321
+
+Description of Goods/Services:
+- Product: Consulting Services
+- Quantity: 50 hours
+- Unit Price: $100
+- Total: $5,000
+- VAT (20%): $1,000
+- Total Amount Due: $6,000
+
+Payment Terms:
+- Bank: ABC Bank
+- Account No: 1234567890
+- IBAN: XX001234567890
+- Payment within 30 days
+
+Notes:
+- Services rendered as per contract dated March 1, 2025.
+- Complies with IFRS 15 for revenue recognition.
